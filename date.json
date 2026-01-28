@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "React fetch練習",
+    "category": "study"
+  },
+  {
+    "id": 2,
+    "title": "JSONをGitHubに置く",
+    "category": "practice"
+  },
+  {
+    "id": 3,
+    "title": "画面に一覧表示",
+    "category": "react"
+  }
+]
